@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 The git log should show a fairly clean view of each of these new versions, and the issues/PRs associated.
 
+# 0.3.18
+
+### Чо?
+
+Fixed [graphql/graphiql#1715](https://github.com/graphql/graphiql/pull/1715)
+
 # 0.3.13
 
 LSP bugfixes:
